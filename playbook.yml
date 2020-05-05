@@ -1,0 +1,11 @@
+---
+
+- name: Playbook final - Executando o laboratorio final do treinamento Ansible
+  hosts: all
+  roles:
+    - common
+    - mysql
+    - nginx
+    - php
+    - wordpress
+...

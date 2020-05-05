@@ -1,0 +1,23 @@
+---
+
+common_packages_redhat:
+  - "@Development Tools"
+  - vim
+  - net-tools
+  - nmap
+  - tcpdump
+  - wget
+  - screen
+  - unzip
+
+common_packages_debian:
+  - vim
+  - build-essential
+  - net-tools
+  - nmap
+  - tcpdump
+  - wget
+  - screen
+  - unzip
+
+...
